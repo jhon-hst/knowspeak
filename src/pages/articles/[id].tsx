@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { park } from "../../../assets/Images";
+import { park } from "<@knowspeak>/assets/Images";
 
 export default function ArticlePage() {
   return (
